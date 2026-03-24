@@ -5,10 +5,10 @@ This project explores the relationship between income levels and happiness score
 
 🛠️ Tools & Technologies
 
-Google Colab – for running and documenting the analysis
-python pandas – for data cleaning and manipulation
-matplotlib – for creating visualisations
-seaborn – for enhanced and styled data visualisation
+- Google Colab – for running and documenting the analysis
+- python pandas – for data cleaning and manipulation
+- matplotlib – for creating visualisations
+- seaborn – for enhanced and styled data visualisation
 
 
 📈 Methodology
