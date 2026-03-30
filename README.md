@@ -50,3 +50,5 @@ Overall, the project highlights how effective visualisations make patterns in da
 - Include more variables (e.g., education, health)
 - Build interactive dashboards
 
+
+
