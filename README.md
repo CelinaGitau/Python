@@ -12,7 +12,7 @@ You're welcome to explore repository and easy to follow along.
 Welcome feedback, suggestions or questions!!
 
 
-Table of Contents
+##Table of Contents:
 
 
 
