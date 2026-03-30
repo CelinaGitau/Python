@@ -1,4 +1,4 @@
-📌 Project Overview
+📌 Project Overview: INCOME VS HAPPINESS 
 
 This project explores the relationship between income levels and happiness scores. The goal was to determine whether a correlation exists and to transform raw data into meaningful insights using google colab  data analysis and   pandas, matpolit and seaborn and visualisation techniques.
 
