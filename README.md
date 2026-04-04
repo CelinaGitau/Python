@@ -58,6 +58,9 @@ sales
 ```
 ### LOOPS
 This uses a loop to repeat actions until a condition is met
+
+Using loop `while`, `continue` and break control flows
+
  **x** variable, starting with value of 1
  
 The loop runs as long as **x is less than 10**
@@ -66,7 +69,7 @@ Each time the loop runs, **x increases by 1** `x += 1`
 
 This allows the program to automatically count up  from 1 until the  condition is no longer true (up to 10)
 
-#### Syntax
+#### Example Syntax:
 ```
 x = 1
 while x <10:
@@ -76,7 +79,7 @@ while x <10:
 
 ### LOOPS
 
-Code using loop `while`, `continue` and break control flows to print all even numbers from 0 to 30
+To print all even numbers using loops from 0 to 30
 
 #### Example Syntax: using a `while`loop
 ```
@@ -99,9 +102,7 @@ while number <= 30:
   print(number)
 ```
 
-
-### LOOP using `break`
-
+ ### LOOP using `break`
 `Break` stops excecuting the loop completely
 
 #### Example Syntax: using `break`
@@ -115,7 +116,8 @@ while number <= 30:
 ```
 
 
-### Range Function
+ ### Range Function
+
 The `range` function
 
 ### Range
@@ -132,10 +134,9 @@ The `range` function
 
 ✅
 
-✅
   
 
-### ☀️Project 2: Data cleaning 
+### ☀️ Project 2: Data cleaning 
   #### 📌 Description
   #### ⛏️ Tools used
   #### 🚀 Code Snippets
@@ -144,4 +145,3 @@ The `range` function
 
 ✅
 
-✅
