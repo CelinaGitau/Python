@@ -1,45 +1,79 @@
-# **PYTHON Reference Guide** 
+# **PYTHON Reference Guide** ![](https://img.icons8.com/color/48/python--v1.png) 
 
+Welcome to my repository  which is a structured and practical python study guide designed to help you learn and practice from basics to more advanced topics.
 
-This repository is a structured and practical python study guide designed to learn and practice from basics to more advanced topics.
-It inlcudes categorised examples with explanations for each topic and practicse sessions based on user input at the end of certain sections
+This  will be categorised examples with clear explanations for each topic, code examples and practice exercises based on user input at the end of certain sections and Mini Projects
 
 📌 Projects will be added soon.
 
-You're welcome to explore repository and easy to follow along.
+[Visit my Github](https://github.com/CelinaGitau)
 
 Welcome feedback, suggestions or questions!!
 
-**Table of Contents**:
-
-## Python using google colab
-[ visit my googlecolab]
-
-### Importing and reading CSV files 
-
-### Learning python loops
-[visit my googlecolab for code]
-
-### learning python conditions: if, elif and else
-[visit the googlecolab for code ]
-
-### Python Range Function
-
-
-
-
-
-#### FIZZBUZZ GAME 
-This game incorporate if, elif,else and range python function
+## Table of Contents :
+1. #### Introduction to Python
+   - What is Python
+   - Tools Used and why is it important 
+2. #### Python File Handling
+    - Importing, reading csv Files 
+3. #### Learning Python control flows
+   -  Loops `while`, `break`, `continue`
+   -  Conditions `if`,`elif`,`else`
+4. #### Defining Fuctions
+    - Range 
+5. #### Practice Exercises
+6. ####  Mini Projects
+   - Data Visualisation between Income and Happiness with google colab
+   - Data cleaning 
+  
 
 
 
-##   Project: Data Visualisation between Income and Happiness with google colab
+###  What is Python ❓
+Python is a simple and easy to read programming language that is beginner friendly that helps users analyse data, allows users to solve complex problems quickly, create visualisations, and build useful tools applications
 
-###
+### ⛏️ Tools used 
+✅Google Colab – for running and documenting the analysis
+
+✅Pandas – for data cleaning and manipulation
+
+✅Matplotlib – for creating visualisations
+
+✅Seaborn – for enhanced and styled data visualisation
+     
+### Importing, reading csv Files 
 
 
+### Loops 
 
 
+### Conditions
 
 
+### Range
+
+### 📌Practice Exercises
+
+### ☀️Mini Projects 
+
+### ☀️Project 1: Data visualisation
+  #### 📌 Description
+  #### ⛏️ Tools used
+  ####  🚀 Code Snippets
+✅ 
+
+✅
+
+✅
+  
+
+### ☀️Project 2: Data cleaning 
+  #### 📌 Description
+  #### ⛏️ Tools used
+  #### 🚀 Code Snippets
+
+✅ 
+
+✅
+
+✅
