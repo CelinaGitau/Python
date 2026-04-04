@@ -97,7 +97,6 @@ while number <= 30:
   if number==32:
     continue
   print(number)
-
 ```
 
 
