@@ -11,9 +11,7 @@ This  will be categorised examples with clear explanations for each topic, code 
 Welcome feedback, suggestions or questions!!
 
 ## Table of Contents :
-1. #### Introduction to Python
-   * What is Python
-   * Tools Used and why is it important 
+1. #### What is Python
 2. #### Python File Handling
    * Importing, reading csv Files 
 3. #### Learning Python control flows
@@ -49,17 +47,15 @@ How to import libraries, read CSV files , and work with data in python using goo
 from google.colab import files
 files = files.upload()
 ```
-Inspect data, load and read your csv file
+Inspect data, load and read your  slected csv file and named file as sales
 
 ```
 import pandas as pd
 sales = pd.read_csv('sales.csv')
 sales
 ```
-### LOOPS
-This uses a loop to repeat actions until a condition is met
-
-Using loop `while`, `continue` and break control flows
+### LOOPS : `while`, `continue` and break control flows
+This repeats actions until a condition is met
 
  **x** variable, starting with value of 1
  
@@ -70,28 +66,18 @@ Each time the loop runs, **x increases by 1** `x += 1`
 This allows the program to automatically count up  from 1 until the  condition is no longer true (up to 10)
 
 #### Example Syntax:
-```
-x = 1
+```x = 1
 while x <10:
   print (x)
-  x += 
-```
-
-### LOOPS
-
+  x += ```
 To print all even numbers using loops from 0 to 30
-
 #### Example Syntax: using a `while`loop
-```
-number = 0
+```number = 0
 while number <= 30:
   print (number)
   number += 2
 ```
-
-### LOOP using `continue`
-`Continue` skips current iteration
-
+### LOOP using `continue`: skips current iteration
 #### Example Syntax: using `continue`
 ````
 number = 0
@@ -101,47 +87,14 @@ while number <= 30:
     continue
   print(number)
 ```
-
- ### LOOP using `break`
-`Break` stops excecuting the loop completely
-
-#### Example Syntax: using `break`
-```
-number = 0
-while number <= 30:
-  number+=2
-  if number == 32:
-    break
-  print(number)
-```
+ #### LOOP using `break`: stops excecuting the loop completely
 
 
- ### Range Function
 
-The `range` function
 
-### Range
-
-### 📌Practice Exercises
-
----
-
-### ☀️Project 1: Data visualisation
-  #### 📌 Description
-  #### ⛏️ Tools used
-  ####  🚀 Code Snippets
-✅ 
-
-✅
 
   
 
-### ☀️ Project 2: Data cleaning 
-  #### 📌 Description
-  #### ⛏️ Tools used
-  #### 🚀 Code Snippets
 
-✅ 
 
-✅
 
