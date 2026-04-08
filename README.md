@@ -14,8 +14,8 @@ Welcome feedback, suggestions or questions!!
  #### What is Python
  #### Python Importing, reading csv Files 
  #### Loops `while`, `break`, `continue`
- #### Conditions `if`,`elif`,`else`
  #### `Range` Functions
+ #### Conditions `if`,`elif`,`else`
  #### Practice Exercises
  #### Projects   
 ----
@@ -33,64 +33,115 @@ Python is a simple and easy to read programming language that is beginner friend
 * ✅Seaborn – for enhanced and styled data visualisation
 ***
      
-### Importing, reading csv, Files 
-How to import libraries, read CSV files , and work with data in python using google colab
+### Importing, reading csv, Files into pandas dataframe
+How to import libraries, load, read CSV files
 
 #### Syntax
-``` from google.colab import files
-files = files.upload() ```
+```
+from google.colab import files
+files = files.upload()
+```
 
-Inspect data, load and read your  slected csv file and named file as sales
-
-#### Example Syntax
-``` import pandas as pd
+#### Syntax: Read (*your selected*) CSV files 
+```
+import pandas as pd
 sales = pd.read_csv('sales.csv')
-sales ```
+sales 
 
-### LOOPS : `while`, `continue` and break control flows
+```
+
+### LOOPS using `while`, `continue` and `break`
 This repeats actions until a condition is met
 
- **x** variable, starting with value of 1
- 
-The loop runs as long as **x is less than 10**
-
-Each time the loop runs, **x increases by 1** `x += 1`
-
-This allows the program to automatically count up  from 1 until the  condition is no longer true (up to 10)
-
-#### Example Syntax:
-```x = 1
+#### Syntax 
+```
+x = 1
 while x <10:
   print (x)
-  x += ```
-To print all even numbers using loops from 0 to 30
-
-#### Example Syntax: using `while`
-
-```number = 0
-while number <= 30:
-  print (number)
-  number += 2
+  x += 1
 ```
-### LOOP using `continue`: skips current iteration
+Write a loop using `contine and `break` and print all even numbers from 0 to 30 *
 
-#### Example Syntax: using `continue`
-````
+#### Syntax `continue` 
+```
 number = 0
 while number <= 30:
   number += 2
   if number==32:
     continue
   print(number)
+
 ```
- #### LOOP using `break`: stops excecuting the loop completely
 
+#### Syntax using `break`
+```
+number = 0
+while number <= 30:
+  number+=2
+  if number == 32:
+    break
+  print(number)
 
+```
+Write a Loop and print all odd numbers less than or equal to 30
 
+#### Syntax using `%`
 
+`%` checks if this is an even number 
+ x += 1 #adds 1 to each time
+```
+x =  0
+while x <= 30:
+  x += 1 
+  if x % 2 == 0:
+    continue
+  print (x)
+```
+----
+### `Range` Function
+Range generates  numbers from 3 and stopping before 10 
 
+#### Syntax 
+```
+for  number in range (3, 10):
+  print (number)
+```
+
+Print numbers (x) starting at 4, increasing by 3 each time, and stopping before 15
+#### Syntax
+```
+for x in range (4, 15, 3):
+ print (x)
+```
+#### Syntax: Odd numbers 
+```
+print ("odd numbers from 1 to 100")
+for x in range (1, 101, 2):
+  print (x, end= " ")
+```
+
+### Range with `end ` Variable
+Print all even numbers from 0 to 100
+
+#### Syntax 
+````
+print ("Even numbers from 0 to 100")
+for n in range( 0, 101, 2):
+  print (n, end= " ")
+````
+ ----
+### Conditions `if`, `elif` and `else`
+**`if`**: checks a condition. If it is true the code runs 
+
+💭 Think *if this happens, do this*
+
+ **`elif`** short for else if : checks another condition if the first was false
+ 
+💭 Think: *if the first thing didnt happen, check this instead*
+
+**`else`**: Runs if none of the above conditions are true
+
+💭 Think: *If nothing else worked, do this*
   
-
-
 
 
