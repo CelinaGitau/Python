@@ -49,7 +49,7 @@ sales
 
 ```
 
-### LOOPS using `while`, `continue` and `break`
+### [LOOPS](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb) using `while`, `continue` and `break`
 This repeats actions until a condition is met
 
 #### Syntax 
@@ -129,7 +129,7 @@ print ("Even numbers from 0 to 100")
 for n in range( 0, 101, 2):
   print (n, end= " ")
 ````
-👉 [See full code](https://github.com/CelinaGitau/Python/blob/21e3aa3adb6b5e04aa5e1aae2c9333704dda9971/Python_Loop.ipynb)
+👉[See full code](https://github.com/CelinaGitau/Python/blob/21e3aa3adb6b5e04aa5e1aae2c9333704dda9971/Python_Loop.ipynb)
  ----
 ### Conditions `if`, `elif` and `else`
 **`if`**: checks a condition. If it is true the code runs 
@@ -181,7 +181,7 @@ for number in range(1, 100):
   else:
     print(number)
 ````
-👉 **[See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)**
+👉 [See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)**
 
 📌 [Practice Exercises](https://colab.research.google.com/drive/1a1nNOs3xLJnDl3DzXFAssN6oL8S0-Pu0#scrollTo=Tb7b23eFUpCe&line=7&uniqifier=1) 
 
