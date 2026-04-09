@@ -161,7 +161,6 @@ elif  a == 15:
 else: 
   print ('a is less than 15')
 ````
-**[See full code](add it here)**
 ----
 #### **FizzBuzz Task**
 | **Symbol** |   **Meaning**     |  **Simple Explanation**            |**Example**             |
@@ -184,6 +183,6 @@ for number in range(1, 100):
 ````
 👉 **[See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)**
 
-[Practice Exercises]() 
+[Practice Exercises](https://colab.research.google.com/drive/1a1nNOs3xLJnDl3DzXFAssN6oL8S0-Pu0#scrollTo=Tb7b23eFUpCe&line=7&uniqifier=1) 
 
 
