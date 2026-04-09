@@ -167,7 +167,7 @@ else:
 |------------|-------------------|------------------------------------|------------------------|
 |  ` ==`     | Equal to          | Checks if values are the same      | `number == 5`          |
 |  `%`       | Modulus (remainder| Gives the remainder after dividing | `10 % 3 = 1`           |
-| `""`       | String (text)     | Displays text                      |  `" Fizz" or "buzz"    |
+| `""`       | String (text)     | Displays text                      |  " Fizz" or "buzz"     |
                                                                          
 #### Syntax 
 ````
@@ -181,6 +181,6 @@ for number in range(1, 100):
   else:
     print(number)
 ````
-**[See full Fizzbuzz code](add link here)**
+👉 **[See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)**
 
 
