@@ -181,7 +181,7 @@ for number in range(1, 100):
   else:
     print(number)
 ````
-👉 [See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)**
+👉 [See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)
 
 📌 [See Practice Exercises](https://colab.research.google.com/drive/1a1nNOs3xLJnDl3DzXFAssN6oL8S0-Pu0#scrollTo=Tb7b23eFUpCe&line=7&uniqifier=1) 
 
