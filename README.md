@@ -13,8 +13,7 @@ Welcome feedback, suggestions or questions!!
 ## Table of Contents :
  #### What is Python
  #### Python Importing, reading csv Files 
- #### [`Loops`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
- #### `Range` Functions
+ #### [`Loops` and `Range`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
  #### Conditions `if`,`elif`,`else`
  #### Practice Exercises
  #### Projects   
