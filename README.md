@@ -135,6 +135,13 @@ for n in range( 0, 101, 2):
 
 💭 Think *if this happens, do this*
 
+#### Syntax
+````
+a = 8
+if a > 6:
+  print ('a is greater than 6')
+````
+
  **`elif`** short for else if : checks another condition if the first was false
  
 💭 Think: *if the first thing didnt happen, check this instead*
@@ -142,6 +149,38 @@ for n in range( 0, 101, 2):
 **`else`**: Runs if none of the above conditions are true
 
 💭 Think: *If nothing else worked, do this*
-  
+
+#### Syntax
+````
+a = 10
+if a > 15: # 10 > 15 is false
+ print('a is greater than 15')
+elif  a == 15:
+ print ('a is equal to 15')
+else: 
+  print ('a is less than 15')
+````
+**[See full code](add it here)**
+
+#### **FizzBuzz Task**
+| **Symbol** |   **Meaning**     |  **Simple Explanation**            |**Example**             |
+|------------|-------------------|------------------------------------|------------------------|
+|  ` ==`     | Equal to          | Checks if values are the same      | `number == 5`          |
+|  `%`       | Modulus (remainder| Gives the remainder after dividing | `10 % 3 = 1`           |
+| `""`       | String (text)     | Displays text                      |  `" Fizz" or "buzz"    |
+                                                                         
+#### Syntax 
+````
+for number in range(1, 100):
+  if number % 3 == 0 and number % 5 == 0:
+    print("fizzbuzz")
+  elif number % 3 == 0:
+    print("fizz")
+  elif number % 5 == 0:
+    print("buzz")
+  else:
+    print(number)
+````
+**[See full Fizzbuzz code](add link here)**
 
 
