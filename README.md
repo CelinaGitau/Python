@@ -15,7 +15,7 @@ Welcome feedback, suggestions or questions!!
  #### Python Importing, reading csv Files 
  #### [`Loops` and `Range`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
  #### Conditions `if`,`elif`,`else`
- #### Practice Exercises
+ #### [Practice Exercises](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
  #### Projects   
 ----
 
@@ -183,6 +183,6 @@ for number in range(1, 100):
 ````
 👉 [See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)
 
-📌 [See Practice Exercises](https://colab.research.google.com/drive/1a1nNOs3xLJnDl3DzXFAssN6oL8S0-Pu0#scrollTo=Tb7b23eFUpCe&line=7&uniqifier=1) 
+📌 [See Practice Exercises](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
 
 
