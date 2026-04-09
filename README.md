@@ -121,6 +121,7 @@ for x in range (1, 101, 2):
 ```
 
 ### Range with `end ` Variable
+
 Print all even numbers from 0 to 100
 
 #### Syntax 
@@ -129,6 +130,7 @@ print ("Even numbers from 0 to 100")
 for n in range( 0, 101, 2):
   print (n, end= " ")
 ````
+👉 **[See full code](https://github.com/CelinaGitau/Python/blob/21e3aa3adb6b5e04aa5e1aae2c9333704dda9971/Python_Loop.ipynb)**
  ----
 ### Conditions `if`, `elif` and `else`
 **`if`**: checks a condition. If it is true the code runs 
