@@ -163,7 +163,7 @@ else:
   print ('a is less than 15')
 ````
 **[See full code](add it here)**
-
+----
 #### **FizzBuzz Task**
 | **Symbol** |   **Meaning**     |  **Simple Explanation**            |**Example**             |
 |------------|-------------------|------------------------------------|------------------------|
