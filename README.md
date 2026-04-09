@@ -60,7 +60,7 @@ while x <10:
   print (x)
   x += 1
 ```
-Write a loop using `contine and `break` and print all even numbers from 0 to 30 *
+Write a loop using `contine` and `break` and print all even numbers from 0 to 30 *
 
 #### Syntax `continue` 
 ```
