@@ -183,4 +183,6 @@ for number in range(1, 100):
 ````
 👉 **[See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)**
 
+[Practice Exercises]() 
+
 
