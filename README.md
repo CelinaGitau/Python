@@ -185,5 +185,5 @@ for number in range(1, 100):
 
 📌 [See Practice Exercises](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
 
-☀️ [Project]()
+☀️ [Project 1:Data Cleaning](https://github.com/CelinaGitau/Python/blob/b2c983d713eee30118e9c6556d96caff99f57f3a/Sales_Data_Cleaning.ipynb)
 
