@@ -187,5 +187,6 @@ for number in range(1, 100):
 
 ☀️ [Project 1:Data Cleaning](https://github.com/CelinaGitau/Python/blob/b2c983d713eee30118e9c6556d96caff99f57f3a/Sales_Data_Cleaning.ipynb)
 
-☀️ [Project 2: Data Visualisation] ()
+☀️ [Project 2: Data Visualisation](https://github.com/CelinaGitau/Python/blob/main/Project%202%3A%20Income%20vs%20Happiness.ipynb)
+
 
