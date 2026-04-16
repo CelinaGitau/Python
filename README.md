@@ -135,9 +135,10 @@ print ("Even numbers from 0 to 100")
 for n in range( 0, 101, 2):
   print (n, end= " ")
 ````
-👉 [See Full Code](https://github.com/CelinaGitau/Python/blob/21e3aa3adb6b5e04aa5e1aae2c9333704dda9971/Python_Loop.ipynb)
+👉 [See Full `Loops` Code](https://github.com/CelinaGitau/Python/blob/main/Python_Loop.ipynb)
+
  ----
-### Python Conditions 
+### **Python Conditions** 
 **Conditions `if`, `elif` and `else`**
 **`if`**: checks a condition. If it is true the code runs 
 
@@ -188,10 +189,12 @@ for number in range(1, 100):
   else:
     print(number)
 ````
-👉 [See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)
+👉 [See full`if`,elif` & `else` Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)
 
+-----
 📌 [Practice Exercises](https://github.com/CelinaGitau/Python/blob/main/Practice_Exercises_(if%2C_elif_and_else).ipynb)
 
+-----
 ☀️ [Project 1:Data Cleaning](https://github.com/CelinaGitau/Python/blob/b2c983d713eee30118e9c6556d96caff99f57f3a/Sales_Data_Cleaning.ipynb)
 
 ☀️[Project 2: Income vs Happiness Data Visualisation](https://github.com/CelinaGitau/Python/blob/main/Project%202%3A%20Income%20vs%20Happiness.ipynb) 
