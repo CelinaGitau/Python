@@ -16,10 +16,12 @@ Welcome feedback, suggestions or questions!!
  - ##### [Python File Handling](#python-file-handling)
  - ##### [`Loops` and `Range`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
  - ##### [Python Conditions](python-conditions)
- - ##### [Practice Exercises](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
- - ##### [Projects](projects)
- - ##### [Project 1: Data Cleaning](project-1-data-cleaning)
- - ##### [Project 2: Income vs Happiness Data Visualisation](project-2--income-vs-happiness-data-visualisation)
+     - ###### ['if', 'elif', 'else'](https://github.com/CelinaGitau/Python/blob/main/Practice_Exercises_(if%2C_elif_and_else).ipynb)
+ - ##### [Practice Exercises](practice-exercises)
+     - ##### [See full code](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
+ - ##### [Projects](#projects)
+    - ##### [Project 1: Data Cleaning](project-1-data-cleaning)
+    - ##### [Project 2: Income vs Happiness Data Visualisation](project-2--income-vs-happiness-data-visualisation)
 ----
 
 ###  What is Python ❓
@@ -133,7 +135,7 @@ print ("Even numbers from 0 to 100")
 for n in range( 0, 101, 2):
   print (n, end= " ")
 ````
-👉[See Full Code](https://github.com/CelinaGitau/Python/blob/21e3aa3adb6b5e04aa5e1aae2c9333704dda9971/Python_Loop.ipynb)
+👉 [See Full Code](https://github.com/CelinaGitau/Python/blob/21e3aa3adb6b5e04aa5e1aae2c9333704dda9971/Python_Loop.ipynb)
  ----
 ### Python Conditions 
 **Conditions `if`, `elif` and `else`**
@@ -188,7 +190,7 @@ for number in range(1, 100):
 ````
 👉 [See full Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)
 
-📌 [See Practice Exercises](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
+📌 [Practice Exercises](https://github.com/CelinaGitau/Python/blob/main/Practice_Exercises_(if%2C_elif_and_else).ipynb)
 
 ☀️ [Project 1:Data Cleaning](https://github.com/CelinaGitau/Python/blob/b2c983d713eee30118e9c6556d96caff99f57f3a/Sales_Data_Cleaning.ipynb)
 
