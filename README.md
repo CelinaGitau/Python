@@ -14,15 +14,12 @@ Welcome feedback, suggestions or questions!!
  - #### [What is Python](#what-is-python)
  - #### [Tools Used](#tools-used)
  - #### [Python File Handling](#python-file-handling)
- - #### [Loops and Range](loops-and-range) - [see full code](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
+ - #### [`Loops` and `Range`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
  - #### [Python Conditions](python-conditions)
-   
- #### [`Loops` and `Range`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
- #### [Python Conditions](#python-conditions)
- #### [Practice Exercises](practice-exercise)(https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
- #### [Projects](projects)
- #### [Project 1 Data Celaning](project-1-data-cleaning)
- #### [Project 2: Income vs Happiness Data Visualisation](project-2--income-vs-happiness-data-visualisation)
+ - #### [Practice Exercises](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
+ - #### [Projects](projects)
+ - #### [Project 1: Data Cleaning](project-1-data-cleaning)
+ - #### [Project 2: Income vs Happiness Data Visualisation](project-2--income-vs-happiness-data-visualisation)
 ----
 
 ###  What is Python ❓
