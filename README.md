@@ -11,12 +11,15 @@ This  will be categorised examples with clear explanations for each topic, code 
 Welcome feedback, suggestions or questions!!
 
 ## Table of Contents :
- #### What is Python
- #### Python Importing, reading csv Files 
+ #### [What is Python](#what-is-python)
+ #### [Tools](#tools)
+ #### [Python File Handling](#python-file-handling)
  #### [`Loops` and `Range`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
- #### Conditions `if`,`elif`,`else`
- #### [Practice Exercises](https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
- #### Projects   
+ #### [Python Conditions](#python-conditions)
+ #### [Practice Exercises](practice-exercise)(https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
+ #### [Projects](projects)
+ #### [Project 1 Data Celaning](project-1-data-cleaning)
+ #### [Project 2: Income vs Happiness Data Visualisation](project-2--income-vs-happiness-data-visualisation)
 ----
 
 ###  What is Python ❓
@@ -32,7 +35,8 @@ Python is a simple and easy to read programming language that is beginner friend
 * ✅Seaborn – for enhanced and styled data visualisation
 ***
      
-### Importing, reading csv, Files into pandas dataframe
+### Python File Handling
+- Python Importing, reading csv Files 
 How to import libraries, load, read CSV files
 
 #### Syntax
@@ -131,7 +135,8 @@ for n in range( 0, 101, 2):
 ````
 👉[See Full Code](https://github.com/CelinaGitau/Python/blob/21e3aa3adb6b5e04aa5e1aae2c9333704dda9971/Python_Loop.ipynb)
  ----
-### Conditions `if`, `elif` and `else`
+### Python Conditions 
+**Conditions `if`, `elif` and `else`**
 **`if`**: checks a condition. If it is true the code runs 
 
 💭 Think *if this happens, do this*
