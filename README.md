@@ -55,8 +55,8 @@ sales
 
 ```
 
-### [LOOPS](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb) using `while`, `continue` and `break`
-This repeats actions until a condition is met
+### [Loops using `while`,`continue`&`break`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb) 
+Loops means this repeats actions until a condition is met
 
 #### Syntax 
 ```
