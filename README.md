@@ -55,17 +55,19 @@ sales
 
 ```
 
-### [Loops using `while`,`continue`&`break`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb) 
+### [Loops](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb) 
+Write a loops using `while`,`continue`&`break`
+
 Loops means this repeats actions until a condition is met
 
-#### Syntax 
+#### Syntax `while`
 ```
 x = 1
 while x <10:
   print (x)
   x += 1
 ```
-Write a loop using `contine` and `break` and print all even numbers from 0 to 30 *
+**Write a loop using `contine` and `break` and print all even numbers from 0 to 30**
 
 #### Syntax `continue` 
 ```
@@ -88,7 +90,7 @@ while number <= 30:
   print(number)
 
 ```
-Write a Loop and print all odd numbers less than or equal to 30
+**Write a Loop and print all odd numbers less than or equal to 30**
 
 #### Syntax using `%`
 
@@ -112,7 +114,7 @@ for  number in range (3, 10):
   print (number)
 ```
 
-Print numbers (x) starting at 4, increasing by 3 each time, and stopping before 15
+**Print numbers (x) starting at 4, increasing by 3 each time, and stopping before 15**
 #### Syntax
 ```
 for x in range (4, 15, 3):
@@ -120,14 +122,14 @@ for x in range (4, 15, 3):
 ```
 #### Syntax: Odd numbers 
 ```
-print ("odd numbers from 1 to 100")
+**print ("odd numbers from 1 to 100")**
 for x in range (1, 101, 2):
   print (x, end= " ")
 ```
 
 ### Range with `end ` Variable
 
-Print all even numbers from 0 to 100
+**Print all even numbers from 0 to 100**
 
 #### Syntax 
 ````
@@ -135,7 +137,7 @@ print ("Even numbers from 0 to 100")
 for n in range( 0, 101, 2):
   print (n, end= " ")
 ````
-👉 [See Full `Loops` Code](https://github.com/CelinaGitau/Python/blob/main/Python_Loop.ipynb)
+👉 [See Full Loops Code](https://github.com/CelinaGitau/Python/blob/main/Python_Loop.ipynb)
 
  ----
 ### **Python Conditions** 
@@ -170,7 +172,7 @@ else:
   print ('a is less than 15')
 ````
 ----
-#### **FizzBuzz Task**
+### **FizzBuzz Task**
 | **Symbol** |   **Meaning**     |  **Simple Explanation**            |**Example**             |
 |------------|-------------------|------------------------------------|------------------------|
 |  ` ==`     | Equal to          | Checks if values are the same      | `number == 5`          |
@@ -189,12 +191,14 @@ for number in range(1, 100):
   else:
     print(number)
 ````
-👉 [See full`if`,elif` & `else` Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)
+👉 [See full if elif else Code](https://github.com/CelinaGitau/Python/blob/8caff455b26962ff842ae27962371c5e70d9e2a3/Python_if_elif_elsed0.ipynb)
 
 -----
+### Practice Exercises
 📌 [Practice Exercises](https://github.com/CelinaGitau/Python/blob/main/Practice_Exercises_(if%2C_elif_and_else).ipynb)
 
 -----
+### Projects
 ☀️ [Project 1:Data Cleaning](https://github.com/CelinaGitau/Python/blob/b2c983d713eee30118e9c6556d96caff99f57f3a/Sales_Data_Cleaning.ipynb)
 
 ☀️[Project 2: Income vs Happiness Data Visualisation](https://github.com/CelinaGitau/Python/blob/main/Project%202%3A%20Income%20vs%20Happiness.ipynb) 
