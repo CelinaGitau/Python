@@ -11,9 +11,12 @@ This  will be categorised examples with clear explanations for each topic, code 
 Welcome feedback, suggestions or questions!!
 
 ## Table of Contents :
- #### [What is Python](#what-is-python)
- #### [Tools Used](#tools-used)
- #### [Python File Handling](#python-file-handling)
+ - #### [What is Python](#what-is-python)
+ - #### [Tools Used](#tools-used)
+ - #### [Python File Handling](#python-file-handling)
+ - #### [Loops and Range](loops-and-range) - [see full code](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
+ - #### [Python Conditions](python-conditions)
+   
  #### [`Loops` and `Range`](https://github.com/CelinaGitau/Python/blob/44eaa4e22e009a5dfb1c865b9b308ecd95ab355d/Python_Loop.ipynb)
  #### [Python Conditions](#python-conditions)
  #### [Practice Exercises](practice-exercise)(https://github.com/CelinaGitau/Python/blob/90bf03bc258f271edc2fd59d96b6489ddeadf3fc/Practice_Exercises_(if%2C_elif_and_else).ipynb)
